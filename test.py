@@ -87,4 +87,12 @@ class car:
         print(f"The car {self.name} of model {self.model} with the color {self.color}")
 
 bmw = car('BMW','Black','Series_1')
+# bmw = car()
+# bmw.name = 'BMW'
+# bmw.color = 'Black'
+# bmw.model = "Series_1"
 bmw.showCarDet()
+
+# f = open('')
+
+print("new line")
